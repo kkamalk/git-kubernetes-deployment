@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
       - name: subhamipl123
-        image: subhamipl123:latest
+        image: flight-api
         imagePullPolicy: Never
         ports:
         - containerPort: 3000
