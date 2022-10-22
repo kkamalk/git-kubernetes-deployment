@@ -1,8 +1,8 @@
-# Flight-Price-Predict-Deployment-Heroku
+# Flight-Price-Predict-Deployment -google cloud kubernetes
 
-In this data science machine learning project tutorial, we are going to build an end to end machine learning project and then deploy it via Heroku.
+In this data science machine learning project tutorial, we are going to build an end to end machine learning project and then deploy it via google cloud.
 
-Test App here: https://tdsapp.herokuapp.com/
+
 
 
 
@@ -12,6 +12,6 @@ STEPS:
 2. Get your dataset prepared and build your model and choose the best model
 3. Create a web App using Flask
 4. Commit your code to Github
-5. Create your account on Heroku
-6. Link your Heroku account to your Github account
+5. Create your account on google cloud
+6. dockerize and create kubernetes pods
 7. Deploy and test your App
